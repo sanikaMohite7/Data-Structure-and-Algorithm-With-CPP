@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📘 Data Structures and Algorithms (DSA) Course
 
 ### 👨‍🏫 Instructor: Prathamesh Arvind Jadhav  
@@ -139,3 +140,6 @@ Welcome to the **Data Structures and Algorithms (DSA)** course. This course is d
 ### 📫 Connect with Me:
 - **Instagram:** [@prathamesh_jadhav_30](https://www.instagram.com/prathamesh_jadhav_30/)
 
+=======
+# Data-Structure-and-Algorithm-With-CPP
+>>>>>>> f04a759b987762ad9fc079c6749f33404e9f8942
