@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # 📘 Data Structures and Algorithms (DSA) Course
 
-### 👨‍🏫 Instructor: Prathamesh Arvind Jadhav  
+### 👨‍🏫 Instructor: Sanika Udaysinh Mohite  
 Welcome to the **Data Structures and Algorithms (DSA)** course. This course is designed to provide a strong foundation in DSA, essential for problem-solving, competitive programming, and technical interviews. All topics are explained with clarity and focus on logic building.
 
 ---
@@ -116,14 +116,13 @@ Welcome to the **Data Structures and Algorithms (DSA)** course. This course is d
 
 ## 🎓 About the Instructor
 
-**Name:** Prathamesh Arvind Jadhav  
+**Name:** Sanika Udaysinh Moite  
 **Education:** B.Tech in Artificial Intelligence and Data Science  
 **Achievements:**
-- 1st Rank in B.Tech (AI & DS)
+- 2nd Rank in B.Tech (AI & DS)
 - ML & Web Development Project Developer
-- Java Full Stack Developer
 
-> I am passionate about teaching, coding, and mentoring future software developers.  
+> I am passionate about  coding, and mentoring future software developers.  
 > Let’s make DSA simple, powerful, and practical.
 
 ---
@@ -135,10 +134,6 @@ Welcome to the **Data Structures and Algorithms (DSA)** course. This course is d
 - Revise and test frequently.
 - Ask questions, collaborate, and enjoy the process!
 
----
-
-### 📫 Connect with Me:
-- **Instagram:** [@prathamesh_jadhav_30](https://www.instagram.com/prathamesh_jadhav_30/)
 
 =======
 # Data-Structure-and-Algorithm-With-CPP
