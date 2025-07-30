@@ -1,0 +1,24 @@
+//Array Traversal Using Function
+
+#include<iostream>
+using namespace std;
+
+void DisplayArray(int arr[] ,int size)
+{
+    cout << "Array Elements: \n";
+
+    for(int i = 0; i < size; i++)
+    {
+        cout << arr[i] << " ";
+    }
+    cout << endl;
+}
+int main()
+{
+    int arr[6] = {1,2,3,4,5,6};
+    int size = 6;
+
+    DisplayArray(arr ,size);
+
+    return 0;
+}
